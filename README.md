@@ -4,7 +4,7 @@
 ## I'm a Student, Programmer, and Beginner to Cybersecurity!!
 
 - 🔭 Check out my Python learning repo here at github: [Learn with me!][https://github.com/Venkey2238/Python]!
-- 🌱 I’m currently learning the python and improving my problem solving skills 🤣
+- 🌱 I’m currently learning python and improving my problem solving skills 🤣
 - 👯 I’m looking to collaborate with other beginners to programming
 - 🥅 2022 Goals: Learn python completely
 - ⚡ Fun fact: I love being with Kali Linux every time
