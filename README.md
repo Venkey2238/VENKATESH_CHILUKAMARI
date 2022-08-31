@@ -11,7 +11,8 @@
 
 ### Connect with me:
 
-[Linkedin] : https://www.linkedin.com/in/chilukamari-venkatesh-371a32193/
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/chilukamari-venkatesh-371a32193/)
+&nbsp; 
 <br />
 [kaggle] : https://www.kaggle.com/venkateshch22384
 
