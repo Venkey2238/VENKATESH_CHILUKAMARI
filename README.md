@@ -14,7 +14,7 @@
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/chilukamari-venkatesh-371a32193/)
 &nbsp; 
 <br />
-[![kaggle](https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png?20140912155123)(https://www.kaggle.com/venkateshch22384)
+[![kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white))(https://www.kaggle.com/venkateshch22384)
 &nbsp;
 
 [![Venkatesh github stats](https://github-readme-stats.vercel.app/api?username=Venkey2238&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
