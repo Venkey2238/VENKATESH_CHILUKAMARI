@@ -12,13 +12,11 @@
 ### Connect with me: 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chilukamari-venkatesh-371a32193/)
 
-<br />
-
 [![](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/venkateshch22384)
 
 
 
-&nbsp;
+
 
 [![Venkatesh github stats](https://github-readme-stats.vercel.app/api?username=Venkey2238&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
