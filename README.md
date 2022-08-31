@@ -1,7 +1,7 @@
 # Hi there, I'm Venkatesh - aka [venkey] 👋 
 
 
-## I'm a Student, Developer, and Beginner to Cybersecurity!!
+## I'm a Student, Programmer, and Beginner to Cybersecurity!!
 
 - 🔭 Check out my Python learning repo here at github: [Learn with me!][https://github.com/Venkey2238/Python]!
 - 🌱 I’m currently learning the pyhton and improving my problem solving skills 🤣
