@@ -9,14 +9,10 @@
 - 🥅 2022 Goals: Learn python completely
 - ⚡ Fun fact: I love being with Kali Linux every time
 
-### Connect with me:
-
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png)       LinkedIn](https://www.linkedin.com/in/chilukamari-venkatesh-371a32193/)
-&nbsp; 
+### Connect with me: 
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chilukamari-venkatesh-371a32193/)
 
 <br />
-<br />
-
 
 [![](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/venkateshch22384)
 
