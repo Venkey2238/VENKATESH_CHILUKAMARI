@@ -14,6 +14,8 @@
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png)       LinkedIn](https://www.linkedin.com/in/chilukamari-venkatesh-371a32193/)
 &nbsp; 
 <br />
+[<img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" width="25"/>](https://www.kaggle.com/venkateshch22384)
+
 [![kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)      kaggle](https://www.kaggle.com/venkateshch22384)
 &nbsp;
 
