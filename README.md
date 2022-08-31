@@ -14,6 +14,6 @@
 [linkedin]: https://www.linkedin.com/in/chilukamari-venkatesh-371a32193/
 [kaggle]: https://www.kaggle.com/venkateshch22384
 
-<br />
+[![Venkatesh github stats](https://github-readme-stats.vercel.app/api?username=Venkey2238&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 
