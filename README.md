@@ -22,7 +22,7 @@
 
 
  -->
- <h1 align="center">Hi 👋, I'm Chilukamari Venkatesh</h1>
+ <h1 align="center">Hi 👋, Hi there, I'm Venkatesh - aka [venkey]</h1>
 <h3 align="center">A passionate python programmer from india.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkey2238&label=Profile%20views&color=0e75b6&style=flat" alt="venkey2238" /> </p>
