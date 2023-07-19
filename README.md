@@ -46,7 +46,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/chilukamari-venkatesh" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=13930&format=png" alt="chilukamari-venkatesh" height="30" width="40" /></a>
-<a href="https://kaggle.com/venkateshch22384" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="venkateshch22384" height="30" width="40" /></a>
+<a href="https://kaggle.com/venkateshch22384" target="blank"><img align="center" src="https://images.datacamp.com/image/upload/v1647430873/kaggle_logo_icon_168474_4eb653edb6.png" alt="venkateshch22384" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/venkateshchiluk1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="venkateshchiluk1" height="30" width="40" /></a>
 </p>
 
