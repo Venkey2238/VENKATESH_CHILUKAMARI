@@ -47,7 +47,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/chilukamari-venkatesh" target="blank"><img align="center" src="https://icon-library.com/images/linked-in-icon-small/linked-in-icon-small-2.jpg" alt="chilukamari-venkatesh" height="30" width="40" /></a>
 <a href="https://kaggle.com/venkateshch22384" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/kaggle-icon-2048x2048-fxhlmjy3.png" alt="venkateshch22384" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/venkateshchiluk1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="venkateshchiluk1" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/venkateshchiluk1" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/374/588/png-transparent-hackerrank-computer-programming-programmer-logo-interview-hacker-logo-miscellaneous-angle-trademark-thumbnail.png" alt="venkateshchiluk1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
