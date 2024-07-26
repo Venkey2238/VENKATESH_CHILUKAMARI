@@ -4,9 +4,9 @@
 ## I'm a Student, Programmer, and Beginner to Cybersecurity!!
 
 - 🔭 Check out my Python learning repo here at github: [Learn with me!][https://github.com/Venkey2238/Python]!
-- 🌱 I’m currently learning python and improving my problem solving skills 
-- 👯 I’m looking to collaborate with other Programmers in python
-- 🥅 2022 Goals: Learn python completely
+- 🌱 I’m currently learning JAVA and improving my problem solving skills 
+- 👯 I’m looking to collaborate with other Programmers in JAVA
+- 🥅 2024 Goals: Learn JAVA completely
 - ⚡ Fun fact: I love being with Kali Linux every time
 
 ### Connect with me: 
@@ -31,7 +31,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Blockchain](https://github.com/Venkey2238/ddbt-app)
+- 🔭 I’m currently working on [JAVA](https://github.com/Venkey2238/JAVA)
 
 - 🌱 I’m currently learning **JAVA**
 
