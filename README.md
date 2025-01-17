@@ -9,7 +9,9 @@ I'm a **Back-End Developer** specializing in **Cloud-Native Applications** and *
 - 🎯 **Goal**: To contribute to innovative projects while continuously growing as a back-end developer.
 
 ---
+## 💼 Portfolio Highlights
 
+---
 
 ## 📈 GitHub Stats
 
