@@ -3,7 +3,7 @@
 I'm a **Back-End Developer** specializing in **Cloud-Native Applications** and **Microservices Development**. I am passionate about building scalable, efficient, and secure solutions to solve real-world problems. With a solid foundation in **Java** and expertise in frameworks like **Spring Boot**, I strive to craft clean, maintainable, and high-performance code.
 
 ## 🚀 About Me
-- 🌱 **Currently Learning**: Advanced system design, container orchestration (Docker & Kubernetes), and cloud services (AWS).
+- 🌱 **Currently Learning**: Advanced system design, container orchestration (Docker & Kubernetes), and cloud services .
 - 💻 **Skills**: Java, Spring Boot, REST APIs, Microservices, SQL, NoSQL, Docker, Kubernetes, and more.
 - 📂 **Projects**: From designing robust REST APIs to deploying scalable microservices architectures, I’ve worked on various projects that demonstrate my technical expertise.
 - 🎯 **Goal**: To contribute to innovative projects while continuously growing as a back-end developer.
