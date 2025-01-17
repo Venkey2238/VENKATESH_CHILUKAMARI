@@ -1,6 +1,6 @@
 # Hi there! 👋 Welcome to my GitHub profile
 
-I'm a **Back-End Developer** specializing in **Cloud-Native Applications** and **Microservices Development**. I am passionate about building scalable, efficient, and secure solutions to solve real-world problems. With a solid foundation in **Java** and expertise in frameworks like **Spring Boot**, I strive to craft clean, maintainable, and high-performance code.
+I'm a **Aspiring Back-End Developer** specializing in **Cloud-Native Applications** and **Microservices Development**. I am passionate about building scalable, efficient, and secure solutions to solve real-world problems. With a solid foundation in **Java** and expertise in frameworks like **Spring Boot**, I strive to craft clean, maintainable, and high-performance code.
 
 ## 🚀 About Me
 - 🌱 **Currently Learning**: Advanced system design, container orchestration (Docker & Kubernetes), and cloud services .
